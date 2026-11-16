@@ -6,4 +6,3 @@
 5. When prompted, check "Add selected module to search paths" and click ok
 6. Extension should now be available in modules dropdown as "Segmentation Display"
 
-# Use Instructions
